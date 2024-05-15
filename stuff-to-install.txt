@@ -1,0 +1,1 @@
+brew install bat bottom fd fish fzf lazygit lsd mise neovimpfetch ripgrep tldr trash zoxide
